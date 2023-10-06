@@ -18,7 +18,8 @@ created a database called chevi
 Was able to create the ERD in the chevi database using the sample code in the 504 Github repo.
 
 
-![Screen Shot 2023-10-04 at 18 18 37](https://github.com/chebbin/mysql_cloudmanaged_databases/assets/141374142/8975f89e-764b-4aff-aa0c-ec125c5b5520)
+![Screen Shot 2023-10-05 at 21 33 14](https://github.com/chebbin/mysql_cloudmanaged_databases/assets/141374142/e4df299b-3e51-4e31-ab40-2babb8ad94c7)
+
 
 ## Setup process for Azure
 Setup Stonybrook Account
